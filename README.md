@@ -31,7 +31,7 @@ Users should be able to:
 ## Links
 
 - [Solution URL](https://github.com/jiehlarae/Base-Apparel-coming-soon-page.git)
-- [Live Site URL]() 
+- [Live Site URL](https://jiehlarae.github.io/Base-Apparel-coming-soon-page/) 
 
 ## My Process
 
@@ -70,4 +70,4 @@ Moving forward, I plan to focus on enhancing my proficiency with JavaScript, par
 
 - Github: [@jiehlarae](https://github.com/jiehlarae)
 - Frontend Mentor: [@jiehlarae](https://www.frontendmentor.io/profile/jiehlarae)
-- X (Twitter): [@JiehlaDacara](https://twitter.com/JiehlaDacara)
+- X: [@JiehlaDacara](https://twitter.com/JiehlaDacara)
